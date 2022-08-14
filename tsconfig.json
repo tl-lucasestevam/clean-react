@@ -9,8 +9,8 @@
     "rootDirs": ["src", "tests"],
     "baseUrl": "src",
     "paths": {
-      "@/*": ["*"],
-      "@/tests/*": ["../tests/*"]
+      "~/*": ["*"],
+      "~/tests/*": ["../tests/*"]
     },
     "allowJs": true,
     "resolveJsonModule": true
